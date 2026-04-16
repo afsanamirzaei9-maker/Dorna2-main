@@ -22,6 +22,8 @@ const testimonialsRow1 = [
   {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"Working with Dorna Media completely transformed our brand presence. Their creative ideas and professional execution exceeded our expectations."},
   {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"The team at Dorna Media helped us grow our social media audience and build a stronger digital identity. The team at Dorna Media helped us grow our social media audience and build a stronger digital identity."},
   {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"Working with Dorna Media completely transformed our brand presence. Their creative ideas and professional execution exceeded our expectations."},
+  {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"Working with Dorna Media completely transformed our brand presence. Their creative ideas and professional execution exceeded our expectations."},
+  {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"Working with Dorna Media completely transformed our brand presence. Their creative ideas and professional execution exceeded our expectations."},
 ];
 
 const testimonialsRow2 = [
@@ -29,6 +31,8 @@ const testimonialsRow2 = [
   {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"The team at Dorna Media helped us grow our social media audience and build a stronger digital identity. The team at Dorna Media helped us grow our social media audience and build a stronger digital identity."},
   {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"Working with Dorna Media completely transformed our brand presence. Their creative ideas and professional execution exceeded our expectations."},
   {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"Working with Dorna Media completely transformed our brand presence. Their creative ideas and professional execution exceeded our expectations."},
+  {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"The team at Dorna Media helped us grow our social media audience and build a stronger digital identity. The team at Dorna Media helped us grow our social media audience and build a stronger digital identity."},
+  {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"The team at Dorna Media helped us grow our social media audience and build a stronger digital identity. The team at Dorna Media helped us grow our social media audience and build a stronger digital identity."},
   {name:"Ahmad Ahmadi", title:"Momand Company Founder", img:"./src/assets/images/dorna-duck.webp", text:"The team at Dorna Media helped us grow our social media audience and build a stronger digital identity. The team at Dorna Media helped us grow our social media audience and build a stronger digital identity."},
 ];
 

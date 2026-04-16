@@ -181,19 +181,15 @@
     font-size: 18px;
   }
   .cards-wrapper {
-    height: auto;
-    flex-wrap: wrap;  
-    gap: 20px;
-    padding-left: 0;
-    margin-top: 30px;
+    margin-left: 5%;
+    
   }
 
   .work-card {
     width: 250px;  
     height: 250px;
-    margin-left: 0;  
-    transform: rotate(0deg) !important;
-  }
+  } 
+   
   .filter-tabs {
     width: 95%;
     height: auto;

@@ -44,16 +44,23 @@ h1 {
     overflow: hidden;
     cursor: grab;
     user-select: none;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: auto;
 }
-
+.row::-webkit-scrollbar{
+    display: none;
+}
 .row:active {
     cursor: grabbing;
 }
 #row1{
-    margin-left: 100px;
+    margin-left: -90px;
+    margin-right: -90px;
 }
 #row2{
-    margin-right: 100px;
+    margin-right: -50px;
+    margin-left: -50px;
 }
 .card {
     flex-shrink: 0;

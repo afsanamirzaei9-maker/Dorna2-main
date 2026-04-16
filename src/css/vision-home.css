@@ -33,7 +33,7 @@
 }
 
 .vision-star {
-  width: 84px; /* سایز ستاره */
+  width: 84px;
   height: 84px;
   display: flex;
   align-items: center;
@@ -47,7 +47,7 @@
 /* ردیف دوم: To Growth */
 .vision-bottom{
   /* width: 346px; */
-  /*height: 78px;*/
+  /* height: 78px; */
   font-family: 'Montserrat', sans-serif;
   font-size: 64px;
   font-weight: 700;
@@ -55,12 +55,12 @@
   letter-spacing: 0%;
   text-transform: capitalize;
   margin-top: -40px;  
-  margin-left: 10px;  
+  margin-left: 5px;  
   background: linear-gradient(90deg, rgba(0, 81, 75, 1), rgba(0, 183, 169, 1));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   display: inline-block;
-  flex-shrink: nowrap;
+  white-space: nowrap;
 }
 /* تنظیم کانتینر اصلی */
 .process-wrapper {
@@ -75,7 +75,7 @@
   width: 282.88px;
   height: 280px;
   border-radius: 50%;
-  margin-left: -20px; /* میزان تداخل طبق عکس جدید */
+  margin-left: -20px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -167,16 +167,15 @@
 
 @media (max-width: 1024px) {
   .process-wrapper {
-    flex-direction: column;  
-    gap: 40px;  
     padding-left: 0;  
+    margin-right: auto;
+    margin-left: auto;
   }
   .process-item {
-    margin-left: 0;  
+    margin-left: 20;  
     width: 260px;  
     height: 260px;
   }
-
   .title-top {
     font-size: 28px; /* کوچک‌تر کردن متن From Vision */
   }
