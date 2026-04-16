@@ -79,7 +79,7 @@
   
   .hero-subtitle-box{
     width: 607px;
-    height: 55px;
+    height:auto;
   }
   .hero-subtitle-box, .btn {
     backdrop-filter: blur(16.5px);
@@ -88,7 +88,7 @@
     border-radius: var(--radius-lg);
     padding: var(--spacing-md) var(--spacing-md);
     margin-bottom: var(--spacing-lg);
-    height: 23px;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -228,20 +228,20 @@
     height: 550px;
   }
   .hero-title {
-    width: 271px;
-    height: 49px;
     left: 53px;
     font-size: 40px ; 
-
     font-weight: var(--font-weight-extraBold);
+    bottom:0;
   }
-
-  .hero-subtitle-box {
-    width: 272px ; 
-    height: 50px; 
-    top: 253px;
+  .hero-subtitle-box{
+    width: 271px ; 
+    height: 59px; 
+    top: 230px;
+  }
+  .hero-subtitle-box .hero-subtitle{
     font-weight: 400;
-    font-size: 13px;
+    font-size: 13px !important;
+    text-align: center;
   }
 
   .hero-buttons {
