@@ -27,6 +27,21 @@
     align-items: center;
     margin: 0 auto;
 }
+<<<<<<< HEAD
+=======
+.faq-title{
+    font-family: 'Milky Matcha';
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: var(--color-primary);
+    margin-bottom: 20px;
+    text-align: center;
+}
+>>>>>>> fa16414d3253b5e7c7e0136f5fa561b758fd5c2c
 .faq-item {
     width: 895px;
     height: auto;
@@ -414,6 +429,9 @@
         width: auto;
         height: auto;
     } */
+    .faq-title{
+        font-size: 20px;
+    }
     .cta-card{
         text-align: left;
 
@@ -441,4 +459,10 @@
     .social-icons {
       margin-left: 10px;
     }
+<<<<<<< HEAD
 }
+=======
+
+
+}
+>>>>>>> fa16414d3253b5e7c7e0136f5fa561b758fd5c2c
