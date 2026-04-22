@@ -25,9 +25,17 @@
     align-items: center;
     margin: 0 auto;
 }
-
-
-
+.faq-title{
+    font-family: 'Milky Matcha';
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: var(--color-primary);
+    margin-bottom: 20px;
+}
 .faq-item {
     width: 895px;
     height: auto;
