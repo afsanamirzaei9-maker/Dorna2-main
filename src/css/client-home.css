@@ -44,6 +44,8 @@ h1 {
     overflow: hidden;
     cursor: grab;
     user-select: none;
+    scroll-snap-type: x mandatory;
+    -webkite-overflow-scrolling: touch;
 }
 
 .row:active {
