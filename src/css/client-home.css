@@ -52,12 +52,13 @@ h1 {
 .row:active {
     cursor: grabbing;
 }
-/* #row1{
-    margin-left: 100px;
+#row1{
+        margin-right: auto;
+    margin-left: auto;
 }
 #row2{
-    margin-right: 100px;
-} */
+    margin-right: 0;
+}
 .card {
     flex-shrink: 0;
     width: 360px;
