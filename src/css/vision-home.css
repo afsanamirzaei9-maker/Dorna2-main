@@ -60,7 +60,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   display: inline-block;
-  flex-shrink: nowrap;
+  flex-shrink: nowrap !important;
 }
 /* تنظیم کانتینر اصلی */
 .process-wrapper {
