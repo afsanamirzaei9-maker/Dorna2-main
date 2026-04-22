@@ -45,18 +45,19 @@ h1 {
     cursor: grab;
     user-select: none;
     scroll-snap-type: x mandatory;
-    -webkite-overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: auto;
 }
 
 .row:active {
     cursor: grabbing;
 }
-#row1{
+/* #row1{
     margin-left: 100px;
 }
 #row2{
     margin-right: 100px;
-}
+} */
 .card {
     flex-shrink: 0;
     width: 360px;
